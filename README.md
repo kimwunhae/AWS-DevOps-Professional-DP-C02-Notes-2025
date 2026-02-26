@@ -3,6 +3,8 @@
 
 ## Table of Contents
 
+> 🇰🇷 Korean versions are available in parallel files with `.ko.md` suffix (for example, `README.ko.md`, `1.SDLC Automation.ko.md`).
+
 | **Section**                             | **Description**                                                                 | **Link**                                                                 |
 |-----------------------------------------|---------------------------------------------------------------------------------|--------------------------------------------------------------------------|
 | **SDLC Automation**                     | Covers automation practices in the Software Development Life Cycle (SDLC).      | [SDLC Automation](/1.SDLC%20Automation.md)                               |
